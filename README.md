@@ -1,16 +1,20 @@
-## Hi there 👋
+# Привет! Я <Имя Фамилия> 👋
 
-<!--
-**theMkrv/theMkrv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Python Backend Developer**. Делаю понятные и поддерживаемые API, продумываю архитектуру, покрываю тестами, умею доводить проект до деплоя (Docker/Nginx/CI).
 
-Here are some ideas to get you started:
+- 💼 **Open to work**: yes
+- 🌍 Location: Vladivistok, Russia / Remote
+- 💬 Telegram: t.me/themkrv
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧰 Стек
+- **Python**, **Django**, **Django REST Framework**
+- **PostgreSQL**, SQLite
+- **Docker / Docker Compose**, Nginx
+- **Git**, GitHub Actions (CI/CD)
+- pytest / unittest, flake8/ruff, black, isort
+
+## ✅ Чем могу быть полезен команде
+- проектирование REST API, сериализация/валидация, права доступа
+- модели/миграции, оптимизация запросов, админка
+- тесты, качество кода, документация
+- контейнеризация и деплой
